@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>jooxlokasi</string>
+				<string>com.panjoel.jooxlokasi</string>
 				<key>bundle-version</key>
 				<string>5.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>jooxloaski</string>
+				<string>jooxlokasi</string>
 			</dict>
 		</dict>
 	</array>
