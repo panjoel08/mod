@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.redkaraoke.redkaraoke</string>
+				<string>jooxlokasi</string>
 				<key>bundle-version</key>
-				<string>7.2</string>
+				<string>5.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Ojo Selingkuh by Panjoel</string>
+				<string>jooxloaski</string>
 			</dict>
 		</dict>
 	</array>
